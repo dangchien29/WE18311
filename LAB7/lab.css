@@ -1,5 +1,5 @@
 nav {
-    line-height: 40px;
+    line-height: 30px;
     background-color: orangered;
     font-variant: small-caps;
     color: white;
@@ -20,7 +20,7 @@ nav {
 .menu {
     width: 1000px;
     margin: 0px auto;
-    background:rgb(246, 19, 19);
+    background: rgb(246, 19, 19);
     height: 50px;
     margin-top: 150px;
 }
@@ -39,7 +39,7 @@ nav {
 .menu li:hover>a,
 .menu .current-item>a {
     text-decoration: none;
-    color: #d9e29b;
+    color: #e6f67e;
 }
 
 .menu .arrow {
@@ -65,16 +65,14 @@ nav {
     opacity: 1;
 }
 
-.sub-menu {
-    width: 140%;
-    padding: 5px 0px;
-    position: absolute;
+.sub-menu { 
+    padding: 5px 0px;   
     top: 100%;
     left: -50px;
     z-index: -1;
     opacity: 0;
-    transition: opacity linear 0.2s; 
-    background-color: #979494fb;      
+    transition: opacity linear 0.2s;
+    background-color: #968d8dfb;
 }
 
 .sub-menu li {
