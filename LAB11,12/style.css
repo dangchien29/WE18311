@@ -93,3 +93,16 @@ table .user .text {
     overflow: auto;
     border: 1px solid #f0f4f8;
 }
+
+.stt{
+    color: rgb(14, 127, 14);
+    border-radius: 10px;
+    border: none;
+    height: 25px;
+    background-color: rgb(158, 233, 158);
+}
+.stt2{
+    border-radius: 10px;
+    border: none;
+    height: 25px;
+}
