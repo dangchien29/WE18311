@@ -46,6 +46,20 @@ table {
 
 .team {
     color: rgb(245, 16, 16);
+    border: none;
+    border-radius: 10px;
+    height: 25px;
+    width: 60px;
+    background-color: rgb(241, 179, 179);
+}
+
+.team2 {
+    color: rgb(35, 6, 199);
+    border: none;
+    border-radius: 10px;
+    height: 25px;
+    width: 60px;
+    background-color: rgb(147, 188, 232);
 }
 
 table th,
@@ -92,4 +106,19 @@ table .user .text {
 .table {
     overflow: auto;
     border: 1px solid #f0f4f8;
+}
+
+.stt {
+    color: rgb(14, 127, 14);
+    border-radius: 10px;
+    border: none;
+    height: 25px;
+    background-color: rgb(158, 233, 158);
+}
+
+.stt2 {
+    border-radius: 10px;
+    border: none;
+    height: 25px;
+    background-color: #9ea1a3;
 }
