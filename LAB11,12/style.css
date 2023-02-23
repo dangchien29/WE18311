@@ -108,18 +108,15 @@ table .user .text {
     border: 1px solid #f0f4f8;
 }
 
-<<<<<<< HEAD
+
 .stt {
-=======
-.stt{
->>>>>>> 4cd8f6f307a50fb975bb762cc64039e9235f5a5f
+
     color: rgb(14, 127, 14);
     border-radius: 10px;
     border: none;
     height: 25px;
     background-color: rgb(158, 233, 158);
 }
-<<<<<<< HEAD
 
 .stt2 {
     border-radius: 10px;
@@ -127,10 +124,9 @@ table .user .text {
     height: 25px;
     background-color: #9ea1a3;
 }
-=======
-.stt2{
+
+.stt2 {
     border-radius: 10px;
     border: none;
     height: 25px;
 }
->>>>>>> 4cd8f6f307a50fb975bb762cc64039e9235f5a5f
