@@ -115,6 +115,7 @@
     padding: 8px 5px 8px 30px;
 }
 
+/* tkb */
 .schedule {
     margin: 0 auto;
     max-width: 800px;
@@ -143,6 +144,7 @@ tbody td:nth-child(even) {
     background-color: #f2f2f2;
 }
 
+/*  */
 footer {
     width: 100%;
     height: 150px;
